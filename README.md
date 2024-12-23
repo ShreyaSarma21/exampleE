@@ -1,2 +1,2 @@
-# exampleE
+# example
 Example for deploy
